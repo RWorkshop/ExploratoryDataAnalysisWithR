@@ -1,7 +1,10 @@
-# ExploratoryDataAnalysisWithR
-Exploratory Data Analysis With R
+Visualising Categorical Data
+==================================
 
-Robust Measures of Centrality
-* Medcouple
-* Trimean
-* Trimmed Mean
+### Mosaic Plots
+
+### Likert Data Visualizations
+
+### Heatmaps
+
+### Sankey Plots
